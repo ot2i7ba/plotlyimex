@@ -20,10 +20,10 @@ plotlyimex is a Python script that generates interactive maps from CSV files usi
 
 ## Installation
 
-1. Download files:
+1. Clone Git:
    ```bash
-   plotlyimex.py
-   requirements.txt
+   git clone https://github.com/ot2i7ba/EASurvival.git
+   cd EASurvival
    ```
 
 2. Install the required Python packages:
