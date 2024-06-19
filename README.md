@@ -36,6 +36,9 @@ plotlyimex is a Python script that generates interactive maps from CSV files usi
    python plotlyimex.py
    ```
 
+## Compiled Version
+A compiled and 7zip-packed version of PlotlyImex for Windows is available as a release. You can download it from the **[Releases](https://github.com/ot2i7ba/plotlyimex/releases)** section on GitHub. This version includes all necessary dependencies and can be run without requiring Python to be installed on your system.
+
 2. Follow the prompts:
 - CSV Filename: Enter the name of the CSV file you want to load (default is import.csv).
 - Delimiter: Enter the delimiter used in the CSV file (',' for comma, ';' for semicolon, default is ',').
