@@ -16,7 +16,6 @@ plotlyimex is a Python script that generates interactive maps from CSV files usi
 - The following Python packages (listed in `requirements.txt`):
   - pandas==1.5.3
   - plotly==5.10.0
-  - argparse==1.4.0
 
 ## Installation
 
@@ -53,8 +52,8 @@ Here is an example of running the script and its output:
   ```
   $ python plotlyimex.py
 
-   plotlyimex v0.2 by ot2i7ba
-  ============================
+   plotlyimex v0.1.0 by ot2i7ba
+  ==============================
 
   Please provide a CSV file with the following columns: latitude, longitude, id, userId, lastSeenAt, speed, direction, source.
   The file should ideally be comma-separated.
@@ -67,6 +66,7 @@ Here is an example of running the script and its output:
   2. Density Plot
   3. Lines Plot
   A. All
+
   Enter the number of the plot type (default is 1): 1
 
   Output html filename (enter for 'export_scatter.html'): my_scatter_plot.html
