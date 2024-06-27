@@ -78,3 +78,9 @@ Here is an example of running the script and its output:
 
 ## Acknowledgments
 Special thanks to the Plotly team for their amazing visualization library.
+
+## License
+This project is licensed under the **[MIT license](https://github.com/ot2i7ba/plotlyimex/blob/main/LICENSE)**, providing users with flexibility and freedom to use and modify the software according to their needs.
+
+## Disclaimer
+This project is provided without warranties. Users are advised to review the accompanying license for more information on the terms of use and limitations of liability.
